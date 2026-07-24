@@ -1,9 +1,9 @@
 {
-    "name":"QuickStart",
-    "description":"Example Extension",
+    "name":"BlueROV2PingSurvey",
+    "description":"This extension makes it easy to record data from the ping2 sonar on the BlueROV2 and visualize the current path of the vehicle when underwater.",
     "icon":"mdi-clock",
     "company":"Blue Robotics",
     "version":"0.0.1",
-    "webpage":"https://example.com",
+    "webpage":"https://github.com/luomaxiu/pingsurvey-bluerov2",
     "api":""
 }
